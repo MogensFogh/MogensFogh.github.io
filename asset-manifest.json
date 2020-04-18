@@ -1,22 +1,35 @@
 {
   "files": {
     "main.css": "/static/css/main.0e96c88f.chunk.css",
-    "main.js": "/static/js/main.fdc731ae.chunk.js",
-    "main.js.map": "/static/js/main.fdc731ae.chunk.js.map",
+    "main.js": "/static/js/main.4a89cd35.chunk.js",
+    "main.js.map": "/static/js/main.4a89cd35.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f586e5e2.js",
     "runtime-main.js.map": "/static/js/runtime-main.f586e5e2.js.map",
-    "static/js/2.857eb3f2.chunk.js": "/static/js/2.857eb3f2.chunk.js",
-    "static/js/2.857eb3f2.chunk.js.map": "/static/js/2.857eb3f2.chunk.js.map",
+    "static/js/2.ce67ebc3.chunk.js": "/static/js/2.ce67ebc3.chunk.js",
+    "static/js/2.ce67ebc3.chunk.js.map": "/static/js/2.ce67ebc3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9713fe1a6802894ae7dbbf5cff768027.js": "/precache-manifest.9713fe1a6802894ae7dbbf5cff768027.js",
+    "precache-manifest.d54a2ed03cccc4540057af4a09d7f6a9.js": "/precache-manifest.d54a2ed03cccc4540057af4a09d7f6a9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0e96c88f.chunk.css.map": "/static/css/main.0e96c88f.chunk.css.map",
-    "static/js/2.857eb3f2.chunk.js.LICENSE.txt": "/static/js/2.857eb3f2.chunk.js.LICENSE.txt"
+    "static/js/2.ce67ebc3.chunk.js.LICENSE.txt": "/static/js/2.ce67ebc3.chunk.js.LICENSE.txt",
+    "static/media/MahjongBamboo6.jpg": "/static/media/MahjongBamboo6.93503ad1.jpg",
+    "static/media/MahjongBambooChow.jpg": "/static/media/MahjongBambooChow.b2d6588f.jpg",
+    "static/media/MahjongCharacter4.jpg": "/static/media/MahjongCharacter4.711aa9d4.jpg",
+    "static/media/MahjongCharacterChow.jpg": "/static/media/MahjongCharacterChow.79f76632.jpg",
+    "static/media/MahjongCircle5.jpg": "/static/media/MahjongCircle5.5776cb62.jpg",
+    "static/media/MahjongCircleChow.jpg": "/static/media/MahjongCircleChow.cc8debbe.jpg",
+    "static/media/MahjongEast.jpg": "/static/media/MahjongEast.7287d189.jpg",
+    "static/media/MahjongFlower2.jpg": "/static/media/MahjongFlower2.9efa08e5.jpg",
+    "static/media/MahjongGreenDragon.jpg": "/static/media/MahjongGreenDragon.ae5a6502.jpg",
+    "static/media/MahjongSeason1.jpg": "/static/media/MahjongSeason1.2d153ff1.jpg",
+    "static/media/MahjongSeason2.jpg": "/static/media/MahjongSeason2.ce673dd6.jpg",
+    "static/media/MahjongSeason3.jpg": "/static/media/MahjongSeason3.d676d4a5.jpg",
+    "static/media/MahjongSeason4.jpg": "/static/media/MahjongSeason4.81b5c8aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f586e5e2.js",
-    "static/js/2.857eb3f2.chunk.js",
+    "static/js/2.ce67ebc3.chunk.js",
     "static/css/main.0e96c88f.chunk.css",
-    "static/js/main.fdc731ae.chunk.js"
+    "static/js/main.4a89cd35.chunk.js"
   ]
 }
