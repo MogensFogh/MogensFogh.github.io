@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd215d221a6810dbd0003c970883bb78",
+    "revision": "3081e754a1ef86588ee77aab1e369f14",
     "url": "/index.html"
   },
   {
-    "revision": "221bb1b530ef5ef8af9f",
-    "url": "/static/css/main.69eda509.chunk.css"
+    "revision": "f929b7738bcdca85bd94",
+    "url": "/static/css/main.012b9ac7.chunk.css"
   },
   {
-    "revision": "2d0fb6a4a4f6316461ae",
-    "url": "/static/js/2.b2e8092f.chunk.js"
+    "revision": "88f4a9e63ec2cb064886",
+    "url": "/static/js/2.4271cf1a.chunk.js"
   },
   {
     "revision": "3e6933cf6bd44f8f91c7aa725d75c668",
-    "url": "/static/js/2.b2e8092f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4271cf1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "221bb1b530ef5ef8af9f",
-    "url": "/static/js/main.c0c989d8.chunk.js"
+    "revision": "f929b7738bcdca85bd94",
+    "url": "/static/js/main.18603a5c.chunk.js"
   },
   {
     "revision": "707e6f1bfe2ce500ea0a",
     "url": "/static/js/runtime-main.f586e5e2.js"
+  },
+  {
+    "revision": "59ccb27df4675f62faf9e866415a0adc",
+    "url": "/static/media/MahjongBack.59ccb27d.jpg"
+  },
+  {
+    "revision": "341b598a0e20fa434f73d2543f586605",
+    "url": "/static/media/MahjongBamboo1.341b598a.jpg"
   },
   {
     "revision": "93503ad1d5cc1aba8afe57f8c2966c10",
@@ -32,12 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MahjongBambooChow.b2d6588f.jpg"
   },
   {
+    "revision": "b0462f4bda9b3dcca32e7d7940c3a68d",
+    "url": "/static/media/MahjongCharacter1.b0462f4b.jpg"
+  },
+  {
     "revision": "711aa9d416a5e480f227d936eaf2b41a",
     "url": "/static/media/MahjongCharacter4.711aa9d4.jpg"
   },
   {
     "revision": "79f76632c0dc65a62b8607b98cc3f682",
     "url": "/static/media/MahjongCharacterChow.79f76632.jpg"
+  },
+  {
+    "revision": "c13cfca375172e4dd20240e6120e8cce",
+    "url": "/static/media/MahjongCircle1.c13cfca3.jpg"
   },
   {
     "revision": "5776cb6256bb8f22605a9967c52065c3",
